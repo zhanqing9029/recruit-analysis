@@ -1,3 +1,4 @@
 title: 大数据招聘岗位数据分析
 description: 基于 29,999 条招聘 JD 的技能需求分析与可视化（Python · pandas · matplotlib）
 theme: jekyll-theme-primer
+lang: zh-CN
